@@ -1,5 +1,7 @@
 .test {
   cursor:url('gus.jpg'), auto;
+  width:15px;
+  height:15px;
 }
 ul {
     color:#0066ff;
