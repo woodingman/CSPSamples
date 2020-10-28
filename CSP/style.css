@@ -1,5 +1,5 @@
 .test {
-  cursor:url('gus.jpg'), auto;
+  cursor:url('gus.jpg') 4 12, auto;
   width:15px;
   height:15px;
 }
