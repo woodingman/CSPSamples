@@ -2,6 +2,12 @@
   cursor:url('gus.jpg'), auto;
 
 }
+.left{
+  float:left;
+}
+.right{
+  float:right;
+}
 ul {
     color:#0066ff;
     background-color:#00ff00;
@@ -9,7 +15,7 @@ ul {
     margin: 0 auto;
 }
 div {
-  width: 300px;
+  width: 500px;
   border: 15px solid green;
   padding: 50px;
   margin: 20px;
